@@ -13,7 +13,7 @@ function Hero() {
         <h1>
           Shop Smarter,
           <br />
-          Live Better.
+          <span>Live Better.</span>
         </h1>
 
         <p>
@@ -36,3 +36,4 @@ function Hero() {
 }
 
 export default Hero;
+

@@ -37,8 +37,10 @@ function Categories() {
 
   return (
     <section className={styles.categories}>
-      <h2>Shop by Categories</h2>
-      <p>Explore our most popular product categories.</p>
+      <div className={styles.heading}>
+        <h2>Shop by Categories</h2>
+        <p>Explore our most popular product categories.</p>
+      </div>
 
       <div className={styles.grid}>
         {categories.map((category) => (
