@@ -137,8 +137,8 @@ Through this project, I gained hands-on experience with:
 
 **Meet Savaliya**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: [https://github.com/](https://github.com/meetsavaliya9)
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/meet-savaliya-b6b4b8411/)
 
 ---
 
