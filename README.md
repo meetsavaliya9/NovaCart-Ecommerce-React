@@ -4,46 +4,6 @@ NovaCart is a modern and responsive e-commerce web application built with **Reac
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Add your Vercel deployment link here
-
-```text
-https://your-vercel-link.vercel.app
-```
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-### 🏠 Home Page
-
-![Home](./screenshots/home.png)
-
-### 🛍️ Products Page
-
-![Products](./screenshots/products.png)
-
-### 📦 Product Details
-
-![Product Details](./screenshots/product-details.png)
-
-### ❤️ Wishlist
-
-![Wishlist](./screenshots/wishlist.png)
-
-### 🛒 Shopping Cart
-
-![Cart](./screenshots/cart.png)
-
-### 💳 Checkout
-
-![Checkout](./screenshots/checkout.png)
-
----
-
 ## ✨ Features
 
 - 🏠 Modern Home Page
